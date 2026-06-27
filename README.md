@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unser-geheimes-treffen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Unser geheimes Treffen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-geheimes-treffen/) |
+| **Get License** | [Secure Licensing Rights for Unser geheimes Treffen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unser-geheimes-treffen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc93b7f22c40d5da09ecec7f6935e9adf7db5211b25d24e5037830d4596aa1ba` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
