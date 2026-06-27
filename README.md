@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roll' im Benz durch die City, der Bass schiebt heavy, yeah
+> Dein Blick trifft meinen, Baby, sag mir, bist du ready?
+> Wir tauchen ab im Nebel, lass die anderen nur reden
+> Zwei Seelen in der Nacht, die für diesen Augenblick leben
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
